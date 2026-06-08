@@ -1,7 +1,7 @@
 name: greg
 displayName: Unrestrained Scopes
 description: Adds a long, factory-focused campaign which serves as the polar counterpart to Erekir.
-subtitle: Factorio on Steroids
+subtitle: Factorio
 dependencies:[
 multicrafter
 ]
